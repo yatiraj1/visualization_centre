@@ -1,0 +1,374 @@
+------------------------------------------------------------------------------
+-------------------------------FURNITURE--------------------------------------
+Total number of objects: 179
+------------------------------------------------------------------------------
+Column names in the df: ['sku' 'product_name' 'product_description' 'product_page_url'
+ 'class_name' 'sale_price' 'thumbnail_image_url' 'obj' 'glb' 'x_dim'
+ 'y_dim' 'z_dim' 'color' 'material' 'decor_style' 'intended_room']
+------------------------------------------------------------------------------
+Total unique class names 13
+Value counts of class names
+End Tables                  20
+Sofas                       19
+Accent Chairs               19
+Ottomans                    18
+Area Rugs                   18
+Coffee & Cocktail Tables    18
+Dining Chairs               18
+Table Lamps                 16
+Dining Tables               14
+Kitchen Islands              9
+Bookcases                    8
+Teen Bookcases               1
+Office Chairs                1
+------------------------------------------------------------------------------
+Total unique product names 178
+Value counts of product names
+Brandt Dark Gray Area Rug                              2
+Balderston End Table                                   1
+Haleakal Kitchen Island Prep Table Hardwood            1
+Leesburg Big Swirl Cocktail Ottoman                    1
+Farmingdale End Table                                  1
+Vidette Slipper Chair                                  1
+Crescentia Slipper Chair                               1
+Lockwood Kitchen Island Set with Ceramic Tile Top      1
+Bowerbank Standard Bookcase                            1
+Colleen End Table with Storage                         1
+Sabine Sleeper Loveseat                                1
+Lorraine End Table                                     1
+Hannon Swing Arm 29.5" Desk Lamp                       1
+Crigler 21" Desk Lamp                                  1
+Uriarte Side Table                                     1
+Shirk Ladder Back Solid Wood Dining Chair              1
+Pagano End Table                                       1
+Kenworthy Extendable Dining Table                      1
+Janeen Cocktail Ottoman                                1
+Chrysanthos Etagere Bookcase                           1
+Hobgood Deluxe Tufted Storage Ottoman                  1
+Yellowstone Valley Contemporary Armchair               1
+Alameda End Table with Storage                         1
+Wylie Rectangular 1 Drawer Coffee Table                1
+Rockville Storage Ottoman                              1
+Hattiesburg Sterling Sofa                              1
+Martinique Tufted Sofa                                 1
+Alijah Mid Century Vintage Modular Loveseat            1
+Yara Storage Ottoman                                   1
+Castillo End Table                                     1
+Maison End Table With Storage                          1
+Sidibe Swivel Barrel Chair                             1
+Cimarron End Table                                     1
+Battey 18" Table Lamp                                  1
+Nobles Storage Ottoman                                 1
+Clair Area Rug                                         1
+Santa Maria Dining Table                               1
+Craig Sofa                                             1
+Saskia Etagere Bookcase                                1
+Melmore 26" Table Lamp                                 1
+Berman Metal Adjustable 20" Desk Lamp                  1
+Dorset Barrel Chair                                    1
+Mitzi Side Chair                                       1
+Cainsville End Table                                   1
+Fordbridge Storage Ottoman                             1
+Visconti Spiral Cage 24.5" Table Lamp                  1
+Potts Barrel Chair                                     1
+Cubicals Cube Bookcase                                 1
+Harrison Dining Chair                                  1
+Sigler Cocktail Ottoman                                1
+Zainab 20" Desk Lamp                                   1
+Croydon Loveseat                                       1
+Fortunat Extendable Dining Table                       1
+Cangelosi Acrylic Gray Area Rug                        1
+Finnur Coffee Table with Tray Top                      1
+Bergh 17" Desk Lamp                                    1
+Brassiewood Coffee Table                               1
+Nunley Dining Chair                                    1
+Cleland Upholstered Dining Chair                       1
+Townsel Dining Table                                   1
+Torin Sofa                                             1
+Haywood Swivel Barrel Chair                            1
+Gehl Modern Brown Arcs & Shapes Area Rug               1
+Randall Armchair                                       1
+Coughlin End Table                                     1
+Grimes Pouf                                            1
+Roudebush Solid Wood Dining Chair                      1
+Fresnay Kitchen Island with Wooden Top                 1
+Keanu Loveseat                                         1
+Lundgren End Table                                     1
+Cremorne LED 28" Desk Lamp                             1
+Mentzer Table Lamp                                     1
+Mcguire Ivory/Silver Area Rug                          1
+Silvis Coffee Table                                    1
+Aldridge Terrarium Coffee Table                        1
+Krol Side Dining Chair                                 1
+Paterson Dining Table                                  1
+Boothby Drop Leaf Solid Wood Dining Table              1
+Oridatown Standard Bookcase                            1
+Aliyah Square Pink Area Rug                            1
+Quintus Solid Wood Dining Chair                        1
+Jarrard Sofa                                           1
+Marshallville Side Chair                               1
+Keystone Lantern 19" Desk Lamp                         1
+Ricardo Ladder Bookcase                                1
+Birmingham Armchair                                    1
+Gayla Solid Wood Dining Chair                          1
+Norfolk Ottoman                                        1
+Luther Coffee Table                                    1
+Liam Barrel Chair                                      1
+Fortville Extendable Solid Wood Dining Table           1
+Darchelle Pink Area Rug                                1
+Valerie Solid Wood Dining Table                        1
+Parksley Storage Ottoman                               1
+Athenis 27" Table Lamp                                 1
+Hedon Kitchen Island with Stainless Steel Top          1
+Ares Armchair                                          1
+Annable End Table                                      1
+Treece Coffee Table with Tray Top                      1
+Darius End Table with Storage                          1
+Creeksville End Table                                  1
+Kit Bookcase                                           1
+Alvarado Loveseat                                      1
+Eric 26" Table Lamp                                    1
+Kellie End Table                                       1
+Alejandro 26" Desk Lamp                                1
+Evadne Coffee Table                                    1
+Granville Sofa                                         1
+Rosina Convertible Sleeper Sofa                        1
+Warrington End Table                                   1
+Huling Dining Chair                                    1
+Avery Sofa Bed                                         1
+Jalissa Chesterfield Settee                            1
+Brandt Turquoise Area Rug                              1
+Coggin Tufted Ottoman                                  1
+Marta Armchair                                         1
+Sirine Ottoman                                         1
+Scipio Ottoman                                         1
+Lester Square Arms Sofa                                1
+Stoneford Etagere Bookcase                             1
+Bronwood Armchair                                      1
+Baughman Mid-Back Upholstered Dining Chair             1
+Cordelia Solid Wood Dining Table                       1
+Aston Mid Storage Ottoman                              1
+Alfredo Swivel Lounge Chair                            1
+Indira Gray & Light Blue Area Rug                      1
+Dorian Coffee Table                                    1
+Marcelo Hand-Tufted Wool/Cotton Ivory Area Rug         1
+Evanston Swivel Papasan Chair                          1
+Weare Solid Back Skirted Upholstered Dining Chair      1
+Laury Navy Indoor/Outdoor Area Rug                     1
+Shounak Kitchen Cart Solid + Manufactured Wood         1
+Mathis Coffee Table Trunk with Lift Top                1
+Merrick Sofa                                           1
+Bohl 22'' Desk Lamp                                    1
+Giana Paisley Upholstered Parsons Chair                1
+Myia Radiance Area Rug                                 1
+Affric Glass Dining Table                              1
+Stoneford Traditional Coffee Table                     1
+Devito Coffee Table with Tray Top                      1
+Dewitt Barrel Chair                                    1
+Kistler Hand-Braided Cotton Red Area Rug               1
+Colborne Dining Table                                  1
+Forteau Coffee Table                                   1
+Virginia Beige/Red Area Rug                            1
+Fortuna Solid Wood Dining Chair                        1
+Benedetto Kitchen Island with Door                     1
+Fitzhugh Kitchen Island                                1
+Colston Loveseat                                       1
+Crisfield Kitchen Island                               1
+Wasser Coffee Table                                    1
+Shayla Armchair                                        1
+Clarence Loveseat                                      1
+Derrico Armchair                                       1
+Ginevra 59" Table Lamp                                 1
+Millicent Extendable Dining Table                      1
+Tucson 39.5" Loveseat                                  1
+Jerlene Glam Coffee Table                              1
+Revere Lift Top Coffee Table                           1
+Lansing End Table                                      1
+Sowerby Solid Wood Dining Chair                        1
+Goodyear Mid Century Modern Solid Wood Dining Table    1
+Auden Kitchen Cart with Faux Marble Top                1
+Sydnor Coffee Table                                    1
+Blakesley Ottoman                                      1
+Yerres Wingback Chair                                  1
+Rummond Storage Ottoman                                1
+Solange Upholstered Dining Chair                       1
+Albion Beige/Brown Leaves Hand-Carved Area Rug         1
+Lahaina Donohoe Multicolor Indoor/Outdoor Area Rug     1
+Ermont Etagere Bookcase                                1
+Blake Side Chair                                       1
+Kling Dining Table                                     1
+Baffin Cube Ottoman                                    1
+Dorset Ivory Area Rug                                  1
+Ordaz End Table                                        1
+Casas Coffee Table                                     1
+Malcolm Captains Armchair                              1
+------------------------------------------------------------------------------
+Total unique sale price 149
+count     179.000000
+mean      238.346927
+std       232.957020
+min        16.990000
+25%        88.490000
+50%       165.990000
+75%       319.990000
+max      1339.990000
+Name: sale_price, dtype: float64
+------------------------------------------------------------------------------
+Total unique intended_room 25
+Value counts of intended_room
+['Living Room']                              32
+['Dining Room']                               9
+['Kitchen']                                   9
+['Living Room', 'Bedroom']                    4
+['Office']                                    3
+['Bedroom']                                   3
+['Foyer']                                     3
+['Bedroom', 'Living Room']                    2
+['Any Room']                                  2
+['Living Room', 'Office']                     2
+['Living Room', 'Dining Room']                2
+['Foyer', 'Kitchen']                          2
+['Foyer', 'Living Room']                      2
+['Office', 'Living Room']                     1
+['Bedroom', 'Foyer']                          1
+['Dining Room', 'Living Room', 'Kitchen']     1
+['Living Room', 'Entertainment']              1
+['Any Room', 'Living Room']                   1
+['Living Room', 'Dining Room', 'Kitchen']     1
+['Bedroom', 'Office']                         1
+['Living Room', 'Foyer']                      1
+['Bedroom', 'Entertainment']                  1
+['Dining Room', 'Bedroom']                    1
+['Kitchen', 'Dining Room']                    1
+['Any Room', 'Outdoor', 'Foyer']              1
+------------------------------------------------------------------------------
+nan : 92
+Living Room : 50
+Dining Room : 15
+Kitchen : 14
+Bedroom : 13
+Foyer : 10
+Office : 7
+Any Room : 4
+Entertainment : 2
+Outdoor : 1
+------------------------------------------------------------------------------
+Total unique material 96
+Value counts of material
+['wood']                                                                   16
+['polypropylene']                                                          10
+['rubberwood']                                                              6
+['metal']                                                                   5
+['wooden']                                                                  4
+['metal', 'wood']                                                           4
+['solid wood']                                                              4
+['metal', 'glass']                                                          3
+['manufactured wood']                                                       3
+['birch wood']                                                              3
+['wood', 'metal']                                                           3
+['iron', 'tempered glass']                                                  2
+['plastic', 'metal']                                                        2
+['solid and manufactured wood']                                             2
+['manufactured wood', 'laminate']                                           2
+['solid rubberwood']                                                        2
+['birch']                                                                   2
+['wood', 'plastic']                                                         2
+['mango wood']                                                              1
+['polypropylene', 'beech', 'wood']                                          1
+['manufactured wood', 'laminate veneers', 'PVC']                            1
+['wood', 'marble']                                                          1
+['laminate wood']                                                           1
+['metal', 'solid and manufactured wood', 'wire']                            1
+['solid oak wood', 'ceramic tile', 'brushed nickel', 'oak wood']            1
+['100% polyester']                                                          1
+['solid and manufactured wood', 'linen']                                    1
+['solid', 'manufactured wood']                                              1
+['stainless steel', 'hardwood']                                             1
+['solid birch']                                                             1
+['solid rubberwood', 'faux crystal']                                        1
+['metal', 'acrylic', 'brass']                                               1
+['stainless steel']                                                         1
+['solid', 'manufactured woods']                                             1
+['particle board']                                                          1
+['pine', 'manufactured wood', 'metal']                                      1
+['iron', 'wood']                                                            1
+['pinewood']                                                                1
+['solid and manufactured wood', 'brass']                                    1
+['wood', 'laminate', 'metal']                                               1
+['metal', 'fabric']                                                         1
+['walnut', 'birch wood']                                                    1
+['steal']                                                                   1
+['stainless steel', 'solid and manufactured wood', 'metal', 'wood']         1
+['metal', 'linen']                                                          1
+['rubberwood', 'wood']                                                      1
+['damask', 'polypropylene']                                                 1
+['Solid beech wood', 'plastic']                                             1
+['powder-coated steel', 'glass']                                            1
+['iron', 'powder coated metal', 'MDF', 'laminate']                          1
+['iron', 'distressed manufactured wood', 'solid and manufactured wood']     1
+['solid birch wood']                                                        1
+['tempered glass', 'nickel-plated metal']                                   1
+['walnut']                                                                  1
+['plastic', 'solid hardwood']                                               1
+['solid wood', 'microfiber']                                                1
+['manufactured birch']                                                      1
+['solid hardwood']                                                          1
+['hardwood', 'ebony']                                                       1
+['hardwood', 'felt']                                                        1
+['polyester', 'acrylic']                                                    1
+['pine wood']                                                               1
+['metal', 'elm wood']                                                       1
+['iron', 'metal', 'glass']                                                  1
+['nylon']                                                                   1
+['stainless-steel']                                                         1
+['glass', 'steel']                                                          1
+['metal', 'glass', 'acrylic', 'tempered glass']                             1
+['faux leather', 'chrome']                                                  1
+['hardwood']                                                                1
+['wood', 'manufactured wood']                                               1
+['ash wood']                                                                1
+['wool', 'cotton']                                                          1
+['solid wood', 'oak veneers', 'metal']                                      1
+['pine', 'wood']                                                            1
+['linen', 'polystyrene']                                                    1
+['metal', 'plastic']                                                        1
+['metal', 'wooden']                                                         1
+['rattan']                                                                  1
+['metal', 'bronze', 'fabric', 'blend of cotton, polyester, and linen']      1
+['solid rubberwood', 'rush']                                                1
+['wood', 'gray oak']                                                        1
+['cotton']                                                                  1
+['wood', 'rattan', 'reclaimed teak']                                        1
+['metal', 'MDF']                                                            1
+['walnut', 'wood']                                                          1
+['acacia hardwood']                                                         1
+['wood', 'pine wood']                                                       1
+['hardwoods', 'metal']                                                      1
+['plywood', 'solid wood']                                                   1
+['metal', 'steel']                                                          1
+['solid and manufactured wood', 'wood veneers']                             1
+['plastic']                                                                 1
+['solid poplar wood']                                                       1
+['kiln-dried hardwood']                                                     1
+['plastic', 'wood', 'metal']                                                1
+------------------------------------------------------------------------------
+wood : 38
+metal : 35
+nan : 26
+polypropylene : 12
+plastic : 9
+manufactured wood : 9
+solid and manufactured wood : 8
+glass : 7
+rubberwood : 7
+solid wood : 7
+iron : 6
+wooden : 5
+solid rubberwood : 4
+hardwood : 4
+birch wood : 4
+tempered glass : 4
+laminate : 4
+acrylic : 3
+stainless steel : 3
+walnut : 3
